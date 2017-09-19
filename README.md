@@ -1,3 +1,10 @@
+# What is this?
+
+I don't know. I found a link that said "Jailbreak 10.3.1" and it lead to a zip file on [this page](https://github.com/mailinneberg/BlueBorne).
+
+Take this with a grain of salt. I haven't and don't plan to test or support this repo.
+
+
 # Jailbreak Yalu 103 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L2B2WU2L67XP8)
 - Join or Ask: Linnebergmai@gmail.com
